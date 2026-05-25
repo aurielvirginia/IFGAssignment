@@ -1,0 +1,1 @@
+Consume latest message from topic user.created and validate payload

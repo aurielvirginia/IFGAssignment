@@ -1,0 +1,1 @@
+Create user via API then verify USER_CREATED event in Kafka

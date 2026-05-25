@@ -1,0 +1,1 @@
+GET /users/{id} -> verify 200 OK

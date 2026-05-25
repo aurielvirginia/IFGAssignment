@@ -1,0 +1,1 @@
+POST /users -> verify 201 Created
